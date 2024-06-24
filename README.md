@@ -19,9 +19,4 @@ Custom module for Magento 2 to enable individual product indexing.
 
 ## Usage
 
-Describe how to use your module.
-
-## License
-
-Specify the license under which your module is distributed.
-
+Use for run  individual product indexing
